@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Xie / Site Title"
+title                    : "Tong Xie"
 title_separator          : "-"
 name                     : &name "Tong Xie"
 description              : &description "Applied Mathematics @ UCLA"
@@ -83,7 +83,6 @@ author:
   name             : "Tong Xie"
   avatar           : "TongProfile.jpg"
   bio              : "Applied Mathematics @ UCLA"
-  location         : "Los Angeles, CA"
   employer         :
   pubmed           :
   googlescholar    :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  location         : "Los Angeles, CA"
 
 
 # Reading Files
