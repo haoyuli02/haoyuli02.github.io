@@ -13,12 +13,11 @@
         url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
     font-weight: normal;
     font-style: normal;
-    font-size: 10px;
 }
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
-	font-size:10px;
+	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
