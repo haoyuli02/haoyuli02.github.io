@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a 3rd-year Applied Mathematics undergraduate student at [UCLA](https://www.ucla.edu/). My research focus is machine learning, with a particular interest on the topic of explainability in deep learning, as it seeks to shed light on the inner workings of complex models and make AI more transparent and interpretable. I am passionate about using mathematics to tackle new challenges and unlock the potentials of emerging technologies. 
+
+Beyond my academic pursuits, I am actively involved in [Global Entrepreneurship Society at UCLA](https://gesatucla.org/), a student organization that ignites my curiosity for new innovations and encourages entrepreneurial thinking. I also had the opportunity to intern at [Startup UCLA](https://startupucla.com/), where the dynamic startup ecosystem gave me hands-on experience of turning groundbreaking ideas into reality.
+
+Feel free to connect with me to explore new opportunities, future collaborations, and exciting ventures!
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
