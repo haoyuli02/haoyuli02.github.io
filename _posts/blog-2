@@ -7,7 +7,7 @@ tags:
   - Generative Models
 ---
 
-This page offers a comprehensive explanation of machine learning algorithms capable of generating new data. It covers an overview of the underlaying principles of various generative models and provides examples of potential applications and resources for further learning. Additionally, we also highlighted common challenges in generative modeling, such as mode collapse and evaluation metrics.
+This [page](https://descriptive-ravioli-e02.notion.site/Generative-Models-bda06f8026664b2eb4e9ed6cb085660f?pvs=4) offers a comprehensive explanation of machine learning algorithms capable of generating new data. It covers an overview of the underlaying principles of various generative models and provides examples of potential applications and resources for further learning. Additionally, we also highlighted common challenges in generative modeling, such as mode collapse and evaluation metrics.
 
 Contents
 ======
