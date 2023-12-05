@@ -18,9 +18,8 @@ Feel free to connect with me and explore new opportunities, future collaboration
 
 ## Research
 
-**Interpretability through Training Samples: Data Attribution for Diffusion Models**
-
+**Interpretability through Training Samples: Data Attribution for Diffusion Models**  
 <ins>Tong Xie\*</ins>, Haoyu Li\*, Andrew Bai, Cho-jui Hsieh (\*Equal Contribution)
 
-([Preprint](https://txie1.github.io/files/diffusion_arxiv.pdf) Nov, 2023)
+[Preprint](https://txie1.github.io/files/diffusion_arxiv.pdf) &nbsp;Nov, 2023
 
