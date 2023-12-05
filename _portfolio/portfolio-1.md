@@ -1,3 +1,9 @@
+---
+title: "Interpretability through Training Samples: Data Attribution for Diffusion Models"
+excerpt: "Short description of portfolio item number 1"
+collection: research
+---
+
 ### Interpretability through Training Samples: Data Attribution for Diffusion Models
 Tong Xie*, Haoyu Li*, Andrew Bai, Cho-jui Hsieh
 
