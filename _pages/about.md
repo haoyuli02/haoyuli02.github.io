@@ -13,3 +13,15 @@ I am a 3rd-year Applied Mathematics undergraduate student at [UCLA](https://www.
 Beyond my academic pursuits, I am actively involved in [Global Entrepreneurship Society (GES) at UCLA](https://gesatucla.org/), a student organization that ignites my curiosity for new innovations and encourages entrepreneurial thinking. I also had the opportunity to intern at [Startup UCLA](https://startupucla.com/), where the dynamic startup ecosystem gave me hands-on experience of turning groundbreaking ideas into reality.
 
 Feel free to connect with me and explore new opportunities, future collaborations, and exciting ventures together!
+
+---
+
+### Research
+---
+
+**Interpretability through Training Samples: Data Attribution for Diffusion Models**
+
+**Tong Xie\***, Haoyu Li\*, Andrew Bai, Cho-jui Hsieh (\*Equal Contribution)
+
+([Preprint](https://txie1.github.io/files/diffusion_arxiv.pdf) Nov, 2023)
+
