@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /post/
-title: "Blog posts"
+title: "Notes"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -15,8 +15,9 @@ tags:
 
 The field of machine learning has witnessed a surge in research on generative models, as these models possess the ability to generate novel data similar to the training data. We explore various types of generative models, with a thorough analysis of their respective limitations and potential applications. Additionally, we also investigate several influence methods / instance-based interpretation and explore their efficacy in relevant applications.
 
-Click [here](https://descriptive-ravioli-e02.notion.site/Generative-Models-5daf5dc59d4c48d29337c6edfaad0927) to visit our notes page.
+Click [here](https://descriptive-ravioli-e02.notion.site/Generative-Models-5daf5dc59d4c48d29337c6edfaad0927) to visit our page.
 
+---
 
 ## Generative Models
 1. Variational Autoencoders (VAE)
@@ -28,4 +29,4 @@ Click [here](https://descriptive-ravioli-e02.notion.site/Generative-Models-5daf5
 1. TracIn
 2. Influence Functions
 3. Representer Points
-4. Application: Memorization in Generative Models
+4. (Application: Memorization in Generative Models)
