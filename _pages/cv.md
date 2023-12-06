@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV_Haoyu_Li.pdf
 author_profile: true
 redirect_from:
   - /resume
