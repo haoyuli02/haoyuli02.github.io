@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Xie"
+title                    : "Haoyu Li"
 title_separator          : "-"
-name                     : &name "Tong Xie"
-description              : &description "Applied Mathematics @ UCLA"
-url                      : https://txie1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Haoyu Li"
+description              : &description "Mathematics of Computation @ UCLA"
+url                      : https://haoyuli02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "txie1.github.io"
+repository               : "haoyuli02.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tong Xie"
+  name             : "Haoyu Li"
   avatar           : "Profile_2.jpg"
-  bio              : "Applied Mathematics @ UCLA"
+  bio              : "Mathematics of Computation @ UCLA"
   employer         :
   pubmed           :
   googlescholar    :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "txie1"
+  github           : "haoyuli02"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tong-xie-ucla"
+  linkedin         : "haoyu-li-4b6787235"
   orcid            :
   pinterest        :
   soundcloud       :
