@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Mathematics of Computation undergraduate student at [UCLA](https://www.ucla.edu/). I am passionate about using mathematics and machine learning to tackle new challenges and unlock the potentials of emerging technologies. My research interests are in **Explainable AI**, **Generative Models**, **Graph Neural Network**, and **AI4Science**. Currently, I am conducting research at [UCLA Computational Machine Learning Lab](https://sites.google.com/view/chohsieh-research/home) and at [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/) where I am foutunate to be adviced by adviced by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) and Professor [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). I am open to exploring more ML areas and opportunities as well!
+I am a 4th-year Mathematics of Computation undergraduate student at [UCLA](https://www.ucla.edu/). I am passionate about using mathematics and machine learning to tackle new challenges and unlock the potentials of emerging technologies. My research interests are in **Explainable AI**, **Generative Models**, **Graph Neural Network**, and **AI4Science**. Currently, I am conducting research at [UCLA Computational Machine Learning Lab](https://sites.google.com/view/chohsieh-research/home) and at [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/) where I am foutunate to be adviced by Professor [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) and Professor [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). 
 
 Feel free to connect with me and explore new opportunities, future collaborations, and exciting ventures together!
 
