@@ -13,7 +13,7 @@ Understanding the impact of their local structure on properties remains a challe
 
 <img src="https://github.com/haoyuli02/haoyuli02.github.io/assets/108601140/d34337b5-2056-4704-a302-f4e743f68972" alt="SymGNN" width="500"/>
 
-[[Paper]](http://haoyuli02.github.io/files/SymGNN_AI4Mat_NeurIPS2023.pdf) (Conditionally Accepted at NeurIPS 2023 AI4Mat)
+[[Paper]](http://haoyuli02.github.io/files/SymGNN_AI4Mat_NeurIPS2023.pdf) (Accepted at NeurIPS 2023 AI4Mat)
 
 
 
