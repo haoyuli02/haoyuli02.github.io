@@ -19,7 +19,7 @@ Feel free to connect with me and explore new opportunities, future collaboration
 **Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks**  
 <ins>Haoyu Li\*</ins>, Shichang Zhang\*, Longwen Tang, Mathieu Bauchy, Yizhou Sun
 
-[[Paper]](https://haoyuli02.github.io/files/SymGNN_AI4Mat_NeurIPS2023.pdf) - Accecpted at NeurIPS 2023 AI4Mat Workshop
+[[Paper]](https://openreview.net/forum?id=2PucSD895t) - Accecpted at NeurIPS 2023 AI4Mat Workshop
 
 ---
 
