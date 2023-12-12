@@ -33,4 +33,4 @@ Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh
 **Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program**
 Haoran Jia, <ins>Haoyu Li</ins>, Xinyue Li, Xiaoxian Shen, Yichen Wang, Zichun Liao, Andrea L. Bertozzi, P. Jeffrey Brantingham, Jona Lelmi
 
-[[paper]](https://haoyuli02.github.io/files/reu_paper.pdf) -- Accepted at IEEE big data 2023 DS4EIW Workshop
+[[paper]](https://dbdmg.polito.it/ds4eiw-2023/index.php/accepted-papers) -- Accepted at IEEE big data 2023 DS4EIW Workshop
