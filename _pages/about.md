@@ -17,14 +17,14 @@ Feel free to connect with me and explore new opportunities, future collaboration
 ## Research
 
 **Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks**  
-<ins>Haoyu Li\*</ins>, Shichang Zhang\*, Longwen Tang, Mathieu Bauchy, Yizhou Sun
+<ins>Haoyu Li\*</ins>, Shichang Zhang\*, Longwen Tang, Mathieu Bauchy, Yizhou Sun (* equal contribution)
 
 [[Paper]](https://arxiv.org/abs/2401.08627) - Accecpted at NeurIPS 2023 AI4Mat Workshop
 
 ---
 
 **Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**  
-Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh
+Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh (* equal contribution)
 
 [[Paper]](https://arxiv.org/abs/2401.09031) - Under Review at CVPR 2024
 
