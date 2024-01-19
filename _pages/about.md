@@ -19,14 +19,14 @@ Feel free to connect with me and explore new opportunities, future collaboration
 **Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks**  
 <ins>Haoyu Li\*</ins>, Shichang Zhang\*, Longwen Tang, Mathieu Bauchy, Yizhou Sun
 
-[[Paper]](https://openreview.net/forum?id=2PucSD895t) - Accecpted at NeurIPS 2023 AI4Mat Workshop
+[[Paper]](https://arxiv.org/abs/2401.08627) - Accecpted at NeurIPS 2023 AI4Mat Workshop
 
 ---
 
 **Interpretability through Training Samples: Data Attribution for Diffusion Models**  
 Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh
 
-[[Preprint]](https://haoyuli02.github.io/files/diffusion_arxiv.pdf) - Under Review at CVPR 2024
+[[Paper]](https://arxiv.org/abs/2401.09031) - Under Review at CVPR 2024
 
 ---
 
