@@ -23,7 +23,7 @@ Feel free to connect with me and explore new opportunities, future collaboration
 
 ---
 
-**Interpretability through Training Samples: Data Attribution for Diffusion Models**  
+**Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**  
 Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh
 
 [[Paper]](https://arxiv.org/abs/2401.09031) - Under Review at CVPR 2024
