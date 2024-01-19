@@ -20,7 +20,7 @@ Understanding the impact of their local structure on properties remains a challe
 ---
 
 
-### Interpretability through Training Samples: Data Attribution for Diffusion Models
+### Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation
 Tong Xie\*, Haoyu Li\*, Andrew Bai, Cho-jui Hsieh
 
 Data attribution methods help interpret how neural networks behave by linking the model behavior to their training data. We extend the first-order influence approximation, TracIn, to diffusion models by incorporating the denoising timestep dynamics. We demonstrate that this influence estimation may be biased due to dominating gradient norms. To this end, Diffusion-ReTrac with a renormalization technique is introduced, enabling notably more localized influence estimation and the targeted attribution of training samples.
