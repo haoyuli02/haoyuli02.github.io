@@ -13,7 +13,7 @@ Understanding the impact of their local structure on properties remains a challe
 
 <img src="https://github.com/haoyuli02/haoyuli02.github.io/assets/108601140/d34337b5-2056-4704-a302-f4e743f68972" alt="SymGNN" width="500"/>
 
-[[Paper]](https://arxiv.org/abs/2401.08627) (Accepted at NeurIPS 2023 AI4Mat)
+[[Paper]](https://arxiv.org/abs/2401.08627) (ICML 2024)
 
 
 
@@ -27,6 +27,6 @@ Data attribution methods help interpret how neural networks behave by linking th
 
 <img src="https://github.com/haoyuli02/haoyuli02.github.io/assets/108601140/ae5847a3-faa2-4b34-ad62-ba64deeb0bb6" alt=img_tracing width="500"/>
 
-[[Paper]](https://arxiv.org/abs/2401.09031) (Under Review at CVPR 2024)
+[[Paper]](https://arxiv.org/abs/2401.09031) (TMLR 2024)
 
 
