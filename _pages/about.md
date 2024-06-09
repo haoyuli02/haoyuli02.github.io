@@ -19,18 +19,17 @@ Feel free to connect with me and explore new opportunities, future collaboration
 **Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks**  
 <ins>Haoyu Li\*</ins>, Shichang Zhang\*, Longwen Tang, Mathieu Bauchy, Yizhou Sun (*equal contribution)
 
-[[Paper]](https://arxiv.org/abs/2401.08627) - Accecpted at NeurIPS 2023 AI4Mat Workshop
-
+[[Paper]](https://arxiv.org/abs/2401.08627) - Accecpted at ICML 2024
 ---
 
 **Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**  
 Tong Xie\*, <ins>Haoyu Li\*</ins>, Andrew Bai, Cho-jui Hsieh (*equal contribution)
 
-[[Paper]](https://arxiv.org/abs/2401.09031) - Under Review at CVPR 2024
+[[Paper]](https://arxiv.org/abs/2401.09031) - Accepted at TMLR 2024
 
 ---
 
 **Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program**
 Haoran Jia, <ins>Haoyu Li</ins>, Xinyue Li, Xiaoxian Shen, Yichen Wang, Zichun Liao, Andrea L. Bertozzi, P. Jeffrey Brantingham, Jona Lelmi
 
-[[workshop page]](https://dbdmg.polito.it/ds4eiw-2023/index.php/accepted-papers) -- Accepted at IEEE big data 2023 DS4EIW Workshop
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10386512) -- Accepted at IEEE big data 2023 DS4EIW Workshop
