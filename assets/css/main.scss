@@ -10,6 +10,14 @@
  *
 */
 
+/* === your overrides (must be before imports) === */
+$doc-font-size: 18;     // base body size
+$type-size-1 : 2.25em;  // H1
+$type-size-2 : 1.75em;  // H2
+$type-size-3 : 1.35em;  // H3
+$type-size-4 : 1.15em;  // H4 / lead
+$type-size-5 : 1.0625em; // body (~17px)
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
